@@ -1,0 +1,6 @@
+D:\Home.Prj\barD\barD\bin\Debug\barD.dll
+D:\Home.Prj\barD\barD\bin\Debug\barD.pdb
+D:\Home.Prj\barD\barD\obj\Debug\barD.csprojResolveAssemblyReference.cache
+D:\Home.Prj\barD\barD\obj\Debug\barD.csproj.CoreCompileInputs.cache
+D:\Home.Prj\barD\barD\obj\Debug\barD.dll
+D:\Home.Prj\barD\barD\obj\Debug\barD.pdb
